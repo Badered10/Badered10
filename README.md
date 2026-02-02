@@ -1,5 +1,5 @@
   <a href="https://github.com/Badered10" style="width: 100%;">
-    <img height="300" align="center" width="150%" src="https://badge.mediaplus.ma/greenbinary/baouragh"/>
+    <img height="300" align="center" width="150%" src="https://badge.mediaplus.ma/binary/baouragh"/>
   </a>
 
 # 📊 GitHub Stats:
